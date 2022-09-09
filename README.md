@@ -21,3 +21,5 @@ You can read files or delete records in the NFT Drive, but files uploaded to the
 
 You can lend, rent, sell or give away your NFT to anyone
 
+## License
+[GPL-v3](https://github.com/NFTDrive/nftdrive.github.io/blob/main/LICENSE)
