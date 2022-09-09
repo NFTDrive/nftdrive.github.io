@@ -1,4 +1,4 @@
-[nftdrive.github.io]([https://choosealicense.com/licenses/mit/](https://nftdrive.github.io/))
+[nftdrive]([https://choosealicense.com/licenses/mit/](https://nftdrive.github.io/))
 
 # NFT Drive to save docs in blockchain
 
