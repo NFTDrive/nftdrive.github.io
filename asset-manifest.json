@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/nftdriveapp/static/css/main.2608ced5.css",
-    "main.js": "/nftdriveapp/static/js/main.ad62eeca.js",
-    "static/media/white.png": "/nftdriveapp/static/media/white.f10ea3c157285394b870.png",
-    "index.html": "/nftdriveapp/index.html",
-    "main.2608ced5.css.map": "/nftdriveapp/static/css/main.2608ced5.css.map",
-    "main.ad62eeca.js.map": "/nftdriveapp/static/js/main.ad62eeca.js.map"
+    "main.css": "/static/css/main.2608ced5.css",
+    "main.js": "/static/js/main.c26358ea.js",
+    "static/media/white.png": "/static/media/white.f10ea3c157285394b870.png",
+    "index.html": "/index.html",
+    "main.2608ced5.css.map": "/static/css/main.2608ced5.css.map",
+    "main.c26358ea.js.map": "/static/js/main.c26358ea.js.map"
   },
   "entrypoints": [
     "static/css/main.2608ced5.css",
-    "static/js/main.ad62eeca.js"
+    "static/js/main.c26358ea.js"
   ]
 }
