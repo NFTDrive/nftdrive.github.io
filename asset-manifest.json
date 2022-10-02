@@ -1,17 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.e36f827b.css",
-    "main.js": "/static/js/main.4bcbf91b.js",
-    "static/media/floppy.png": "/static/media/floppy.2de464205e65e1e05026.png",
-    "static/media/usb.png": "/static/media/usb.10b3ee1d97a49921989e.png",
-    "static/media/penDrive.png": "/static/media/penDrive.736bcc842cb68415b580.png",
-    "static/media/nftDriveT.png": "/static/media/nftDriveT.9dd2d9c004fb4d9652d2.png",
-    "index.html": "/index.html",
-    "main.e36f827b.css.map": "/static/css/main.e36f827b.css.map",
-    "main.4bcbf91b.js.map": "/static/js/main.4bcbf91b.js.map"
+    "main.css": "/nftdriveapp/static/css/main.2608ced5.css",
+    "main.js": "/nftdriveapp/static/js/main.ad62eeca.js",
+    "static/media/white.png": "/nftdriveapp/static/media/white.f10ea3c157285394b870.png",
+    "index.html": "/nftdriveapp/index.html",
+    "main.2608ced5.css.map": "/nftdriveapp/static/css/main.2608ced5.css.map",
+    "main.ad62eeca.js.map": "/nftdriveapp/static/js/main.ad62eeca.js.map"
   },
   "entrypoints": [
-    "static/css/main.e36f827b.css",
-    "static/js/main.4bcbf91b.js"
+    "static/css/main.2608ced5.css",
+    "static/js/main.ad62eeca.js"
   ]
 }
